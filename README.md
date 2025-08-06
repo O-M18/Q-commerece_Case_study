@@ -33,33 +33,10 @@ The project covers the **entire analytics lifecycle**:
 
 ---
 
-## 📁 Project Structure
-
-q-commerce-powerbi-case-study/
-│
-├── data/ # Simulated datasets
-│ ├── inventory.csv
-│ ├── sales.csv
-│ └── returns.csv
-│
-├── dashboard/
-│ └── qcommerce_dashboard.pbix
-│
-├── report/
-│ └── Q-Commerce_Report.pdf
-│
-├── images/
-│ ├── dashboard_overview.png
-│ └── sku_insights.png
-│
-└── README.md
-
-
----
-
 ## 📈 Dashboard Highlights
 
-![Dashboard Overview](images/dashboard_overview.png)
+<img width="1236" height="740" alt="Screenshot 2025-08-06 184035" src="https://github.com/user-attachments/assets/9cdb971f-0a96-4e5f-9ec0-1a907e375e1c" />
+
 
 - City-wise sales, margin, holding cost, return rate  
 - SKU-level performance analysis  
@@ -77,7 +54,7 @@ The report includes:
 - Recommendations for optimization  
 - KPI summary by city and category  
 
-📄 **[Download Full Report](report/Q-Commerce_Report.pdf)**
+📄 **[Download Full Report]()**
 
 ---
 
@@ -100,16 +77,11 @@ The report includes:
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
 If you're working on something similar, want feedback on your analytics project, or would like to collaborate — feel free to connect!
 
-🔗 [LinkedIn Post](#) ()  
+🔗 https://www.linkedin.com/posts/om-mane-921a1b283_dataanalytics-powerbi-qcommerce-activity-7358856952401080321-5yI5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUHSGkBRKYdLmeZ7VtwJGNrCqG4repMGUs 
 📧 Reach me via GitHub or LinkedIn
 
----
-
-## 📌 Tags
-
-`Power BI` `SQL` `Python` `Data Analytics` `Dashboard` `Portfolio Project` `Q-Commerce` `Inventory Analysis` `Returns Management` `Business Intelligence`
 
