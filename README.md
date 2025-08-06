@@ -1,7 +1,7 @@
-# 📦  Getto(Q-Commerce) Operations Case Study – Power BI Dashboard Project
+##📦  Getto(Q-Commerce) Operations Case Study – Power BI Dashboard Project
+---
 
-
-## Project Overview
+### Project Overview
 
 This case study was built to simulate real-world problems faced by quick commerce (Q-Commerce) businesses, especially those managing **inventory, returns, and sales** across multiple cities.  
 
@@ -15,7 +15,7 @@ The project covers the **entire analytics lifecycle**:
 
 ---
 
-## Business Problems Addressed
+### Business Problems Addressed
 
 1. **Overstocking & High Inventory Holding Cost**  
 2. **Frequent Stockouts for High-Demand SKUs**  
@@ -24,7 +24,7 @@ The project covers the **entire analytics lifecycle**:
 
 ---
 
-## 📊 Tools & Skills Used
+###  Tools & Skills Used
 
 - **Power BI** – Dashboard creation & KPI visualizations  
 - **Python (Pandas, Faker)** – Synthetic data generation   
@@ -32,7 +32,7 @@ The project covers the **entire analytics lifecycle**:
 
 ---
 
-## 📈 Dashboard Highlights
+### Dashboard Highlights
 
 <img width="1236" height="740" alt="Screenshot 2025-08-06 184035" src="https://github.com/user-attachments/assets/9cdb971f-0a96-4e5f-9ec0-1a907e375e1c" />
 
@@ -44,7 +44,7 @@ The project covers the **entire analytics lifecycle**:
 
 ---
 
-## 📄 Executive Summary
+### 📄 Executive Summary
 
 A structured report was prepared targeting **CEO, CFO, and COO** audiences.  
 The report includes:
@@ -57,7 +57,7 @@ The report includes:
 
 ---
 
-## Key Learnings
+### Key Learnings
 
 - **Smaller data is better for fast prototyping**: I initially created 900k+ rows, which overloaded Power BI. Keeping data realistic improved performance.
 - **Understand table dependencies**: Creating clean relationships between tables helped make accurate calculations and DAX measures.
@@ -67,7 +67,7 @@ The report includes:
 
 ---
 
-## Outcome
+### Outcome
 
 - ✅ Interactive Power BI dashboard  
 - ✅ City and SKU level insights  
@@ -76,7 +76,7 @@ The report includes:
 
 ---
 
-## Let’s Connect
+### Let’s Connect
 
 If you're working on something similar, want feedback on your analytics project, or would like to collaborate — feel free to connect!
 
