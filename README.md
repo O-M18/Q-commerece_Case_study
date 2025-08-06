@@ -54,7 +54,7 @@ The report includes:
 - Recommendations for optimization  
 - KPI summary by city and category  
 
-📄 **[Download Full Report]()**
+📄 **[Download Full Report](https://github.com/O-M18/Q-commerece_Case_study/blob/main/Getto_Report.pdf)**
 
 ---
 
