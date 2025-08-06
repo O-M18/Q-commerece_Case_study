@@ -1,7 +1,5 @@
 # 📦  Getto(Q-Commerce) Operations Case Study – Power BI Dashboard Project
 
-A complete end-to-end **portfolio project** simulating a Q-Commerce business environment to analyze and solve key operational challenges using **Power BI, Python, and SQL**.
-
 ---
 
 ## Project Overview
@@ -10,11 +8,11 @@ This case study was built to simulate real-world problems faced by quick commerc
 
 The project covers the **entire analytics lifecycle**:
 
-- ✅ Data generation using Python  
-- ✅ Data cleaning and preparation  
-- ✅ Power BI dashboard creation  
-- ✅ Business insights and executive-level reporting  
-- ✅ Reflection on key learnings and mistakes
+✅ Data generation using Python  
+✅ Data cleaning and preparation  
+✅ Power BI dashboard creation  
+✅ Business insights and executive-level reporting  
+✅ Reflection on key learnings and mistakes
 
 ---
 
