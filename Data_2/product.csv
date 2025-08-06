@@ -1,0 +1,51 @@
+,category,sku,shelf_life,unit_price,unit,unit_cost
+0,Dairy & Bakery,SKU001,162,952.84,pieces,562.08
+1,Personal care,SKU002,97,173.63,ml,111.87
+2,Dairy & Bakery,SKU003,30,327.28,pieces,188.79
+3,Personal care,SKU004,99,387.5,pieces,279.2
+4,Packaged snack,SKU005,160,503.34,pieces,291.68
+5,Fresh Produce,SKU006,80,804.48,g,544.5
+6,Packaged snack,SKU007,40,773.69,g,394.24
+7,Dairy & Bakery,SKU008,150,183.53,g,115.42
+8,Fresh Produce,SKU009,120,685.88,pieces,366.92
+9,Packaged snack,SKU010,33,995.48,pieces,670.1
+10,Packaged snack,SKU011,112,132.19,g,95.6
+11,Dairy & Bakery,SKU012,158,420.29,g,237.31
+12,Dairy & Bakery,SKU013,108,268.0,pieces,205.11
+13,Fresh Produce,SKU014,130,185.78,g,137.62
+14,Packaged snack,SKU015,107,591.45,pieces,397.13
+15,Fresh Produce,SKU016,67,409.53,pieces,286.02
+16,Personal care,SKU017,99,236.88,ml,146.56
+17,Supplements,SKU018,138,160.23,pieces,93.52
+18,Supplements,SKU019,139,486.22,pieces,315.24
+19,Supplements,SKU020,121,134.97,pieces,69.73
+20,Supplements,SKU021,98,267.25,g,164.62
+21,Fresh Produce,SKU022,112,177.0,pieces,116.19
+22,Dairy & Bakery,SKU023,72,959.36,pieces,743.16
+23,Dairy & Bakery,SKU024,85,994.27,ml,645.49
+24,Supplements,SKU025,144,558.88,g,417.61
+25,Dairy & Bakery,SKU026,113,812.09,g,443.33
+26,Personal care,SKU027,40,915.64,ml,691.23
+27,Dairy & Bakery,SKU028,174,318.03,g,164.56
+28,Personal care,SKU029,35,292.2,ml,204.44
+29,Dairy & Bakery,SKU030,102,562.85,ml,333.06
+30,Personal care,SKU031,164,793.78,pieces,477.53
+31,Packaged snack,SKU032,67,328.36,pieces,201.53
+32,Packaged snack,SKU033,47,721.09,pieces,505.84
+33,Packaged snack,SKU034,44,774.2,g,606.12
+34,Packaged snack,SKU035,57,843.85,pieces,668.06
+35,Supplements,SKU036,163,706.26,pieces,399.3
+36,Packaged snack,SKU037,115,128.17,pieces,95.31
+37,Personal care,SKU038,145,366.38,pieces,260.92
+38,Supplements,SKU039,175,939.95,g,640.4
+39,Personal care,SKU040,144,808.13,pieces,565.91
+40,Dairy & Bakery,SKU041,89,119.57,g,89.44
+41,Personal care,SKU042,33,105.28,pieces,63.18
+42,Packaged snack,SKU043,87,437.75,pieces,290.52
+43,Dairy & Bakery,SKU044,129,491.94,ml,377.24
+44,Fresh Produce,SKU045,148,911.44,pieces,626.15
+45,Fresh Produce,SKU046,98,385.0,g,263.16
+46,Fresh Produce,SKU047,120,248.4,pieces,144.33
+47,Packaged snack,SKU048,60,982.33,g,721.57
+48,Personal care,SKU049,39,942.44,pieces,557.14
+49,Dairy & Bakery,SKU050,178,299.95,g,178.82

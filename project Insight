@@ -1,0 +1,106 @@
+3 Core Business Problems in Quick Commerce
+Demand Uncertainty and Stockouts
+➤ "We often run out of high-demand products or overstock low-demand ones."
+
+High Spoilage and Wastage
+➤ "Perishable goods expire before selling, leading to profit loss."
+
+Inefficient Inventory Allocation Across Locations
+➤ "Some locations have excess stock while others face shortages."
+
+
+structure of data:
+
+product:
+1. category
+2. sku
+3.shelf_life
+4. unit price
+5. unit
+6. unit cost
+
+Inventory:
+1. month - week
+2.sku_id
+2. opening qty
+3. closing qty
+4.  received qty
+5. sold qty
+6. spoiled qty
+7. return qty
+
+
+sales:
+1. order_id
+2. quantity 
+3. price
+4. location
+5.date and sales
+
+
+### 📦 **Business Scenario: Inventory Inefficiency & Rising Operational Cost in E-Commerce**
+
+**Business Type:**
+An e-commerce platform selling Fast-Moving Consumer Goods (FMCG) across 5 urban warehouses.
+
+**Duration:**
+After 12 months of operations, problems began to emerge from Month 4.
+
+---
+
+### 📊 **Scenario Breakdown:**
+
+#### 🟢 **Months 1–3: Stable Operations**
+
+* **Demand:** Consistent. The weekly average sales per SKU range from 50 to 70 units.
+* **Inventory:** Proper forecasting → well-maintained stock levels.
+* **Returns:** Within expected range (1–2%).
+* **Cost:** Stable cost of operations.
+
+---
+
+#### 🔴 **Months 4–6: Emerging Problems**
+
+#### Problem 1: Overstocking & Overstock Holding Cost
+
+##### 🔁 Problem 2: Return Spike Mismanagement
+
+* **Cause:** Sudden increase in return rates (jumping to 8–10%) due to:
+
+  * Wrong item deliveries.
+  * Damaged goods from new 3PL vendor.
+* **Effect:** Return data not integrated properly → inflated `received_qty` in inventory.
+* **Impact:** Replenishment happens despite available returned stock → duplicating stock.
+
+##### ⚠️ Problem 3: Stockout for High-Demand SKUs
+
+* **Cause:** Top-selling SKUs like “Smartphone Cases” saw sales increase, but replenishment planning failed due to rigid ordering cycle.
+* **Effect:** Sold quantity > received + opening stock → Stockouts.
+* **Impact:** Missed revenue opportunities and drop in customer satisfaction.
+
+##### 📉 Problem 4: Sales Stagnation Amid Rising Cost
+
+* **Cause:** While revenue plateaued, inventory holding, return processing, and storage costs rose.
+* **Impact:** Shrinking profit margins, alerting the CFO.
+
+---
+
+### 📌 **KPIs to Highlight in Analysis:**
+
+| KPI                | Expected Pattern | Issue in Months 4–6        |
+| ------------------ | ---------------- | -------------------------- |
+| Inventory Turnover | Steady           | Sharp drop                 |
+| Stockout Rate      | Low (<2%)        | High (>6%) for few SKUs    |
+| Returns %          | 1–2%             | Jump to 8–10%              |
+| Avg Holding Cost   | Stable           | Gradually increasing       |
+| Gross Margin       | Consistent       | Decline despite flat sales |
+
+---
+
+### 📈 Final Business Insight:
+
+"Despite steady revenue, rising operational inefficiencies driven by poor demand planning, mismanaged returns, and misalignment between procurement and warehouse led to increased costs. Unless corrected, these inefficiencies could erode profitability further."
+
+---
+
+
