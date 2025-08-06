@@ -1,6 +1,5 @@
 # 📦  Getto(Q-Commerce) Operations Case Study – Power BI Dashboard Project
 
----
 
 ## Project Overview
 
